@@ -1,3 +1,5 @@
-System.out.println("janitha");
-System.out.println("mysuru");
-System.out.println("vvce");
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Hello, Java!");
+    }
+}
